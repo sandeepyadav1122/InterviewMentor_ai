@@ -68,7 +68,7 @@ Follow these steps to run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sandeepyadav1122/ai-mock-interview.git
+git clone https://github.com/sandeepyadav1122/InterviewMentor_ai.git
 ````
 
 ### 2. Install Dependencies
